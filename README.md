@@ -12,7 +12,7 @@ Recent BCA graduate with hands-on experience in Python, Flask, MySQL, HTML, CSS,
 - Interested in Software Development, Data Science, and Machine Learning
 - Building projects focused on automation, management systems, and web applications
 - Currently learning advanced backend development and cloud technologies
-- Vice-President, Foto-Graphica Club, DSEU
+- Vice-President, Foto-Grafica Club, DSEU
 
 ---
 
@@ -37,11 +37,11 @@ Pandas • NumPy • Scikit-Learn • OpenCV
 
 ## Featured Projects
 
-### Student & Faculty Management System
-Role-based web application built using Flask and MySQL with authentication, student management, and faculty management features.
-
 ### Smart Classroom Monitoring System
 Face recognition and engagement analysis system using Python, OpenCV, and YOLO.
+
+### Student & Faculty Management System
+Role-based web application built using Flask and MySQL with authentication, student management, and faculty management features.
 
 ### DSEU College Website
 Dynamic college portal with responsive UI and structured content management.
@@ -49,14 +49,14 @@ Dynamic college portal with responsive UI and structured content management.
 ### Spam Classifier
 Machine Learning project for classifying spam and legitimate messages.
 
-### Foto-Graphica CMS
+### Foto-Grafica CMS
 Content management system for event galleries, image uploads, and administrative controls.
 
 ---
 
 ## Leadership Experience
 
-### Vice-President, Foto-Graphica Club (DSEU)
+### Vice-President, Foto-Grafica Club (DSEU)
 
 - Coordinated photography events and workshops
 - Managed sponsorship and promotional activities
