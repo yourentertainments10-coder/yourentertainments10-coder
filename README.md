@@ -83,7 +83,7 @@ www.linkedin.com/in/anuj-srivastava-20a5b229a/
 yourentertainments10@gmail.com
 
 🐙 GitHub:
-github.com/yourentertainments10-coder
+[github.com/yourentertainments10-coder](https://github.com/yourentertainments10-coder/yourentertainments10-coder)
 
 ---
 
