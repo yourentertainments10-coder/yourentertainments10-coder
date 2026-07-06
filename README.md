@@ -203,7 +203,6 @@ Worked on real-world Python projects, including building an e-commerce applicati
 <tr><td>🟦</td><td><b>Software Development Internship</b> — Geeks Kepler, Unstop Tech Fair 2025</td><td><i>Jan 2026</i></td></tr>
 <tr><td>🟩</td><td><b>Data Analyst Internship</b> — Geeks Kepler, Unstop Tech Fair 2025</td><td><i>Jan 2026</i></td></tr>
 <tr><td>🟧</td><td><b>Software Engineering Job Simulation</b> — Forage</td><td><i>Dec 2025</i></td></tr>
-<tr><td>🟪</td><td><b>CodeMystique Coding Supreme Challenge</b> — SSCBS, University of Delhi</td><td><i>Nov 2023</i></td></tr>
 </table>
 
 ---
