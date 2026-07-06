@@ -145,7 +145,44 @@ Official website for my college's photography club, where I serve as **Vice-Pres
 </tr>
 </table>
 
-> More repos: **Data Analytics Web App** • **College Website** • **Champions World Academy** — see [full repository list](https://github.com/yourentertainments10-coder?tab=repositories).
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📊 [Data Analytics Web App](https://github.com/yourentertainments10-coder/Data-Analytics-Web-App)**
+
+Interactive data analytics dashboard built with **Python and Streamlit** featuring data visualization, filtering, statistical insights, and a responsive UI.
+
+`python` `streamlit` `data-analytics` `data-visualization`
+
+</td>
+<td width="50%" valign="top">
+
+**🏫 [Champions World Academy](https://github.com/yourentertainments10-coder/Champions-World-Academy)**
+
+Responsive school website featuring admissions, courses, events, gallery, contact forms, and a modern UI for an enhanced user experience.
+
+`html` `school-website` `responsive-design`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 [College Website](https://github.com/yourentertainments10-coder/College_Website)**
+
+Responsive college website with academic programs, departments, admissions, events, notices, and a modern user-friendly interface.
+
+`html` `college-website` `responsive-design`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+> See the [full repository list](https://github.com/yourentertainments10-coder?tab=repositories) for everything else.
 
 ---
 
