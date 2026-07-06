@@ -66,7 +66,7 @@ I'm **Anuj Srivastava**, a Full Stack Developer based in Noida, working across *
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yourentertainments10-coder&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourentertainments10-coder&theme=radical&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=yourentertainments10-coder&theme=radical&hide_border=true" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourentertainments10-coder&layout=compact&theme=radical&hide_border=true" width="49%"/>
 
