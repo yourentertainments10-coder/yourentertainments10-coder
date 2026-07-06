@@ -37,27 +37,52 @@ I'm **Anuj Srivastava**, a Full Stack Developer based in Noida, working across *
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![SQL](https://skillicons.dev/icons?i=mysql)
+<span title="Python">![Python](https://skillicons.dev/icons?i=python)</span>
+<span title="Java">![Java](https://skillicons.dev/icons?i=java)</span>
+<span title="JavaScript">![JavaScript](https://skillicons.dev/icons?i=js)</span>
+<span title="TypeScript">![TypeScript](https://skillicons.dev/icons?i=ts)</span>
+<span title="C">![C](https://skillicons.dev/icons?i=c)</span>
+<span title="C++">![C++](https://skillicons.dev/icons?i=cpp)</span>
+<span title="MySQL">![SQL](https://skillicons.dev/icons?i=mysql)</span>
 
 **Frontend**
 
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![React](https://skillicons.dev/icons?i=react)
+<span title="HTML5">![HTML](https://skillicons.dev/icons?i=html)</span>
+<span title="CSS3">![CSS](https://skillicons.dev/icons?i=css)</span>
+<span title="Bootstrap">![Bootstrap](https://skillicons.dev/icons?i=bootstrap)</span>
+<span title="Tailwind CSS">![Tailwind](https://skillicons.dev/icons?i=tailwind)</span>
+<span title="React">![React](https://skillicons.dev/icons?i=react)</span>
 
 **Backend**
 
-![Flask](https://skillicons.dev/icons?i=flask) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django)
+<span title="Flask">![Flask](https://skillicons.dev/icons?i=flask)</span>
+<span title="Node.js">![Node.js](https://skillicons.dev/icons?i=nodejs)</span>
+<span title="Express.js">![Express](https://skillicons.dev/icons?i=express)</span>
+<span title="Django">![Django](https://skillicons.dev/icons?i=django)</span>
 
 **Databases**
 
-![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![SQLite](https://skillicons.dev/icons?i=sqlite) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<span title="MySQL">![MySQL](https://skillicons.dev/icons?i=mysql)</span>
+<span title="MongoDB">![MongoDB](https://skillicons.dev/icons?i=mongodb)</span>
+<span title="SQLite">![SQLite](https://skillicons.dev/icons?i=sqlite)</span>
+<span title="PostgreSQL">![PostgreSQL](https://skillicons.dev/icons?i=postgres)</span>
 
 **AI / ML**
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLOv8](https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-00897B?style=flat-square) ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+<span title="Pandas">![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)</span>
+<span title="NumPy">![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)</span>
+<span title="Scikit-learn">![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)</span>
+<span title="OpenCV">![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)</span>
+<span title="YOLOv8">![YOLOv8](https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square)</span>
+<span title="MediaPipe">![MediaPipe](https://img.shields.io/badge/-MediaPipe-00897B?style=flat-square)</span>
+<span title="OpenAI API">![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)</span>
 
 **Tools**
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
+<span title="Git">![Git](https://skillicons.dev/icons?i=git)</span>
+<span title="GitHub">![GitHub](https://skillicons.dev/icons?i=github)</span>
+<span title="VSCode">![VSCode](https://skillicons.dev/icons?i=vscode)</span>
+<span title="Postman">![Postman](https://skillicons.dev/icons?i=postman)</span>
 
 ---
 
@@ -184,7 +209,6 @@ Responsive college website with academic programs, departments, admissions, even
 
 > See the [full repository list](https://github.com/yourentertainments10-coder?tab=repositories) for everything else.
 
----
 
 ### 💼 Experience
 
@@ -211,7 +235,7 @@ Worked on real-world Python projects, including building an e-commerce applicati
 
 ![VP](https://img.shields.io/badge/Vice--President-Foto--Grafica%20Club-8b5cf6?style=for-the-badge) ![CGPA](https://img.shields.io/badge/CGPA-9.0-22c55e?style=for-the-badge)
 
----
+
 
 ### 🤝 Connect With Me
 
