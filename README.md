@@ -160,7 +160,7 @@ Personal portfolio showcasing my development, ML, and data analytics work — [r
 </td>
 <td width="50%" valign="top">
 
-** [Foto-Grafica Club Website](https://github.com/yourentertainments10-coder/Foto-Grafica_Website)**
+**[Foto-Grafica Club Website](https://github.com/yourentertainments10-coder/Foto-Grafica_Website)**
 
 Official website for my college's photography club, where I serve as **Vice-President**.
 
