@@ -16,24 +16,24 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm **Anuj Srivastava**, a Full Stack Developer based in Noida, working across **Flask, MySQL, HTML, CSS, and JavaScript**, with a growing focus on **Data Science and Machine Learning**.
 
-> 🧩 **What I Build:** ![Full Stack](https://img.shields.io/badge/-Automation%20%26%20Management%20Systems-8b5cf6?style=flat-square) ![AI](https://img.shields.io/badge/-Computer%20Vision%20%26%20AI%20Apps-f97316?style=flat-square) ![Web](https://img.shields.io/badge/-Web%20Applications-06b6d4?style=flat-square)
+>  **What I Build:** ![Full Stack](https://img.shields.io/badge/-Automation%20%26%20Management%20Systems-8b5cf6?style=flat-square) ![AI](https://img.shields.io/badge/-Computer%20Vision%20%26%20AI%20Apps-f97316?style=flat-square) ![Web](https://img.shields.io/badge/-Web%20Applications-06b6d4?style=flat-square)
 
-- 🎓 BCA Graduate, currently deepening my skills in **advanced backend development and cloud technologies**
-- 🎨 Vice-President, **Foto-Grafica Club**, DSEU
-- 🔭 Currently building projects around automation, management systems, and computer-vision-driven web apps
-- 🌱 Learning: cloud deployment, advanced backend architecture, and agentic AI workflows
-- 💬 Ask me about: Flask, React, YOLOv8/OpenCV, or MySQL-backed systems
-- 📫 Reach me at **anujxsrivastava@gmail.com**
+-  BCA Graduate, currently deepening my skills in **advanced backend development and cloud technologies**
+-  Vice-President, **Foto-Grafica Club**, DSEU
+-  Currently building projects around automation, management systems, and computer-vision-driven web apps
+-  Learning: cloud deployment, advanced backend architecture, and agentic AI workflows
+-  Ask me about: Flask, React, YOLOv8/OpenCV, or MySQL-backed systems
+-  Reach me at **anujxsrivastava@gmail.com**
 
-> 🎯 **Long Term:** ![Goal](https://img.shields.io/badge/-Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20Analyst-22c55e?style=flat-square)
+>  **Long Term:** ![Goal](https://img.shields.io/badge/-Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Data%20Analyst-22c55e?style=flat-square)
 
 ---
 
-### 🛠️ Tech Arsenal
+###  Tech Arsenal
 
 **Languages**
 
@@ -86,7 +86,7 @@ I'm **Anuj Srivastava**, a Full Stack Developer based in Noida, working across *
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
 
@@ -111,7 +111,7 @@ I'm **Anuj Srivastava**, a Full Stack Developer based in Noida, working across *
 <tr>
 <td width="50%" valign="top">
 
-**🎓 [Smart Attendance System](https://github.com/yourentertainments10-coder/smart-attendance-system)**
+** [Smart Attendance System](https://github.com/yourentertainments10-coder/smart-attendance-system)**
 
 AI-powered attendance system using **Flask, YOLOv8, OpenCV, and MySQL** for face detection, authentication, and automated reporting.
 
@@ -120,7 +120,7 @@ AI-powered attendance system using **Flask, YOLOv8, OpenCV, and MySQL** for face
 </td>
 <td width="50%" valign="top">
 
-**♟️ [Chess Engine](https://github.com/yourentertainments10-coder/Chess)**
+** [Chess Engine](https://github.com/yourentertainments10-coder/Chess)**
 
 React-based chess game with a **custom engine, minimax AI bot, local multiplayer**, and shareable game sessions.
 
@@ -131,7 +131,7 @@ React-based chess game with a **custom engine, minimax AI bot, local multiplayer
 <tr>
 <td width="50%" valign="top">
 
-**🏫 [Student & Faculty System](https://github.com/yourentertainments10-coder/Student_Faculty_System)**
+** [Student & Faculty System](https://github.com/yourentertainments10-coder/Student_Faculty_System)**
 
 Flask app for managing students, faculty, assignments, and attendance via **role-based dashboards**.
 
@@ -140,7 +140,7 @@ Flask app for managing students, faculty, assignments, and attendance via **role
 </td>
 <td width="50%" valign="top">
 
-**🛒 [E-Commerce Store](https://github.com/yourentertainments10-coder/CodeAlpha_Ecommerce)**
+** [E-Commerce Store](https://github.com/yourentertainments10-coder/CodeAlpha_Ecommerce)**
 
 E-commerce web application built as part of the **CodeAlpha internship**.
 
@@ -151,7 +151,7 @@ E-commerce web application built as part of the **CodeAlpha internship**.
 <tr>
 <td width="50%" valign="top">
 
-**💼 [Portfolio Website](https://anuj-srivastava-portfolio-website.vercel.app/)**
+** [Portfolio Website](https://anuj-srivastava-portfolio-website.vercel.app/)**
 
 Personal portfolio showcasing my development, ML, and data analytics work — [repo](https://github.com/yourentertainments10-coder/Anuj-Srivastava-Portfolio-Website).
 
@@ -160,7 +160,7 @@ Personal portfolio showcasing my development, ML, and data analytics work — [r
 </td>
 <td width="50%" valign="top">
 
-**📸 [Foto-Grafica Club Website](https://github.com/yourentertainments10-coder/Foto-Grafica_Website)**
+** [Foto-Grafica Club Website](https://github.com/yourentertainments10-coder/Foto-Grafica_Website)**
 
 Official website for my college's photography club, where I serve as **Vice-President**.
 
@@ -183,7 +183,7 @@ Interactive data analytics dashboard built with **Python and Streamlit** featuri
 </td>
 <td width="50%" valign="top">
 
-**🏫 [Champions World Academy](https://github.com/yourentertainments10-coder/Champions-World-Academy)**
+** [Champions World Academy](https://github.com/yourentertainments10-coder/Champions-World-Academy)**
 
 Responsive school website featuring admissions, courses, events, gallery, contact forms, and a modern UI for an enhanced user experience.
 
@@ -194,7 +194,7 @@ Responsive school website featuring admissions, courses, events, gallery, contac
 <tr>
 <td width="50%" valign="top">
 
-**🎓 [College Website](https://github.com/yourentertainments10-coder/College_Website)**
+** [College Website](https://github.com/yourentertainments10-coder/College_Website)**
 
 Responsive college website with academic programs, departments, admissions, events, notices, and a modern user-friendly interface.
 
@@ -210,7 +210,7 @@ Responsive college website with academic programs, departments, admissions, even
 > See the [full repository list](https://github.com/yourentertainments10-coder?tab=repositories) for everything else.
 
 
-### 💼 Experience
+###  Experience
 
 **CodeAlpha Internship** — *1 Month*
 Worked on real-world Python projects, including building an e-commerce application, with a focus on writing clean, functional code and applying core software development practices under deadline.
@@ -220,24 +220,24 @@ Worked on real-world Python projects, including building an e-commerce applicati
 ### 🎓 Certifications
 
 <table>
-<tr><td>🟦</td><td><b>Foundations in Generative AI</b> — IBM</td><td><i>Jun 2026</i></td></tr>
-<tr><td>🟩</td><td><b>Data Analytics Job Simulation</b> — Deloitte (via Forage)</td><td><i>Jun 2026</i></td></tr>
-<tr><td>🟧</td><td><b>GenAI Powered Data Analytics Job Simulation</b> — Tata (via Forage)</td><td><i>Jun 2026</i></td></tr>
-<tr><td>🟪</td><td><b>Data Visualisation: Empowering Business with Effective Insights</b> — Forage</td><td><i>Jun 2026</i></td></tr>
-<tr><td>🟦</td><td><b>Software Development Internship</b> — Geeks Kepler, Unstop Tech Fair 2025</td><td><i>Jan 2026</i></td></tr>
-<tr><td>🟩</td><td><b>Data Analyst Internship</b> — Geeks Kepler, Unstop Tech Fair 2025</td><td><i>Jan 2026</i></td></tr>
-<tr><td>🟧</td><td><b>Software Engineering Job Simulation</b> — Forage</td><td><i>Dec 2025</i></td></tr>
+<tr><td></td><td><b>Foundations in Generative AI</b> — IBM</td><td><i>Jun 2026</i></td></tr>
+<tr><td></td><td><b>Data Analytics Job Simulation</b> — Deloitte (via Forage)</td><td><i>Jun 2026</i></td></tr>
+<tr><td></td><td><b>GenAI Powered Data Analytics Job Simulation</b> — Tata (via Forage)</td><td><i>Jun 2026</i></td></tr>
+<tr><td></td><td><b>Data Visualisation: Empowering Business with Effective Insights</b> — Forage</td><td><i>Jun 2026</i></td></tr>
+<tr><td></td><td><b>Software Development Internship</b> — Geeks Kepler, Unstop Tech Fair 2025</td><td><i>Jan 2026</i></td></tr>
+<tr><td></td><td><b>Data Analyst Internship</b> — Geeks Kepler, Unstop Tech Fair 2025</td><td><i>Jan 2026</i></td></tr>
+<tr><td></td><td><b>Software Engineering Job Simulation</b> — Forage</td><td><i>Dec 2025</i></td></tr>
 </table>
 
 ---
 
-### 🏆 Achievement Highlights
+###  Achievement Highlights
 
 ![VP](https://img.shields.io/badge/Vice--President-Foto--Grafica%20Club-8b5cf6?style=for-the-badge) ![CGPA](https://img.shields.io/badge/CGPA-9.0-22c55e?style=for-the-badge)
 
 
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 <div align="center">
 
@@ -252,7 +252,7 @@ Worked on real-world Python projects, including building an e-commerce applicati
 
 <div align="center">
 
-### 💭 *"Learn deeply, build relentlessly, and let your code do the talking."*
+###  *"Learn deeply, build relentlessly, and let your code do the talking."*
 
 <img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
