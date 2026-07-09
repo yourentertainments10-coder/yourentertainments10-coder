@@ -111,7 +111,7 @@ I'm **Anuj Srivastava**, a Full Stack Developer based in Noida, working across *
 <tr>
 <td width="50%" valign="top">
 
-** [Smart Attendance System](https://github.com/yourentertainments10-coder/smart-attendance-system)**
+**[Smart Attendance System](https://github.com/yourentertainments10-coder/smart-attendance-system)**
 
 AI-powered attendance system using **Flask, YOLOv8, OpenCV, and MySQL** for face detection, authentication, and automated reporting.
 
@@ -120,7 +120,7 @@ AI-powered attendance system using **Flask, YOLOv8, OpenCV, and MySQL** for face
 </td>
 <td width="50%" valign="top">
 
-** [Chess Engine](https://github.com/yourentertainments10-coder/Chess)**
+**[Chess Engine](https://github.com/yourentertainments10-coder/Chess)**
 
 React-based chess game with a **custom engine, minimax AI bot, local multiplayer**, and shareable game sessions.
 
@@ -131,7 +131,7 @@ React-based chess game with a **custom engine, minimax AI bot, local multiplayer
 <tr>
 <td width="50%" valign="top">
 
-** [Student & Faculty System](https://github.com/yourentertainments10-coder/Student_Faculty_System)**
+**[Student & Faculty System](https://github.com/yourentertainments10-coder/Student_Faculty_System)**
 
 Flask app for managing students, faculty, assignments, and attendance via **role-based dashboards**.
 
@@ -140,7 +140,7 @@ Flask app for managing students, faculty, assignments, and attendance via **role
 </td>
 <td width="50%" valign="top">
 
-** [E-Commerce Store](https://github.com/yourentertainments10-coder/CodeAlpha_Ecommerce)**
+**[E-Commerce Store](https://github.com/yourentertainments10-coder/CodeAlpha_Ecommerce)**
 
 E-commerce web application built as part of the **CodeAlpha internship**.
 
@@ -151,7 +151,7 @@ E-commerce web application built as part of the **CodeAlpha internship**.
 <tr>
 <td width="50%" valign="top">
 
-** [Portfolio Website](https://anuj-srivastava-portfolio-website.vercel.app/)**
+**[Portfolio Website](https://anuj-srivastava-portfolio-website.vercel.app/)**
 
 Personal portfolio showcasing my development, ML, and data analytics work — [repo](https://github.com/yourentertainments10-coder/Anuj-Srivastava-Portfolio-Website).
 
@@ -174,7 +174,7 @@ Official website for my college's photography club, where I serve as **Vice-Pres
 <tr>
 <td width="50%" valign="top">
 
-**📊 [Data Analytics Web App](https://github.com/yourentertainments10-coder/Data-Analytics-Web-App)**
+**[Data Analytics Web App](https://github.com/yourentertainments10-coder/Data-Analytics-Web-App)**
 
 Interactive data analytics dashboard built with **Python and Streamlit** featuring data visualization, filtering, statistical insights, and a responsive UI.
 
@@ -183,7 +183,7 @@ Interactive data analytics dashboard built with **Python and Streamlit** featuri
 </td>
 <td width="50%" valign="top">
 
-** [Champions World Academy](https://github.com/yourentertainments10-coder/Champions-World-Academy)**
+**[Champions World Academy](https://github.com/yourentertainments10-coder/Champions-World-Academy)**
 
 Responsive school website featuring admissions, courses, events, gallery, contact forms, and a modern UI for an enhanced user experience.
 
@@ -194,7 +194,7 @@ Responsive school website featuring admissions, courses, events, gallery, contac
 <tr>
 <td width="50%" valign="top">
 
-** [College Website](https://github.com/yourentertainments10-coder/College_Website)**
+**[College Website](https://github.com/yourentertainments10-coder/College_Website)**
 
 Responsive college website with academic programs, departments, admissions, events, notices, and a modern user-friendly interface.
 
